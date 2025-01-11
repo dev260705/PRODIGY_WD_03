@@ -1,3 +1,3 @@
-# PRODIGY_WD_03
+TIC TAC TOE
 
-This is my task 3 of Prodigy InfoTech (TIC TAC TOE) 
+This is a (TIC TAC TOE) Game. 
