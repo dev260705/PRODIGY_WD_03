@@ -5,7 +5,7 @@ A simple implementation of the classic Tic Tac Toe game built using HTML, CSS, J
 
 Features
 Two-player mode: Play locally with a friend.
-Responsive design: Works seamlessly on desktop and mobile devices.
+
 Interactive UI: Displays real-time updates and winning combinations. 
 
 Run the application:
